@@ -1,0 +1,29 @@
+{
+  "repo": "confluence-team-wiki-reader-2026",
+  "product": "Confluence Team Wiki Reader 2026",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "confluence-team-wiki-reader",
+    "confluence-team-wiki-reader-desktop",
+    "confluence-team-wiki-reader-release",
+    "confluence-team-wiki-reader-windows",
+    "disk-utility",
+    "file-management",
+    "windows-utility",
+    "desktop-tools",
+    "pc-maintenance",
+    "system-admin",
+    "hardware-info",
+    "driver-management",
+    "windows-11",
+    "windows-10",
+    "desktop-software"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Confluence Team Wiki Reader"
+}
